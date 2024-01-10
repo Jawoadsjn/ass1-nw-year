@@ -1,0 +1,115 @@
+.section1 {
+    background-image: url('../image/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    padding: 250px;
+    color: rgb(6, 0, 0);
+    font-size: large;
+    margin-left: 150PX;
+    margin-top: 50px;
+
+
+}
+
+.section1-details {
+    text-align: center;
+    font-size: larger;
+}
+
+header {
+    max-width: 1600;
+}
+
+.off {
+    text-align: center;
+    color: red;
+    font-size: 70px;
+}
+
+.section2-details-items {
+    text-align: center;
+
+}
+
+.new {
+    padding: 50px 270px;
+    width: 702.9px;
+    height: 400px;
+
+}
+
+.section3 {
+    background-image: url('../image/Vectorrr.png');
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    margin: 50px 250px 50px 250px;
+    background-size: 800px;
+
+}
+
+.section3-items {
+    padding: 100px 750px 150px 20px;
+    color: white;
+    font-size: large;
+    text-align: left;
+}
+
+.btn {
+    background-color: aqua;
+    border-radius: 5px;
+}
+
+main {
+    background: #f1c6c6;
+    max-width: 1320;
+    margin: 150px;
+    border-radius: 5px;
+}
+
+.date {
+    color: red;
+}
+
+.time {
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.container {
+  
+    display: flex;
+}
+
+.container-right {
+    width: 393px;
+}
+
+.container-left {
+    width: 276px;
+}
+
+.grp {
+    width: 70px;
+height: 70px;
+flex-shrink: 0;
+}
+.elps img{
+    width: 264.844px;
+    height: 264.844px;
+    border-radius: 364.844px;
+background-image: url('../image/Ellipse\ 1.png'), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+}
+.holiday-sales-images{
+    background-image: url('../image/Rectangle\ 1.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    display: inline;
+
+}
+.b75 {
+    background-image: url('../image/Rectangle\ 1.png');
+    background-repeat: no-repeat ;
+    background-position: bottom right;
+}
