@@ -61,7 +61,7 @@ header {
 }
 
 main {
-    background: #f1c6c6;
+    background: #f3dcdc;
     max-width: 1320;
     margin: 150px;
     border-radius: 5px;
@@ -74,6 +74,7 @@ main {
 .time {
     text-align: center;
     padding-bottom: 50px;
+    
 
 }
 
@@ -178,12 +179,14 @@ main {
 .item{
     background: #070211;
     color: white;
+    
        
 }
 
 .columns{
     display: flex;
     align-items: center;
+    justify-content: space-between;
 }
 .column1{
     margin: 20px 200px 00px 140px;
@@ -195,4 +198,14 @@ main {
 }
 .icons {
     margin: 20px 400px 20px 500px;
+}
+.copyright{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px ;
+    
+}
+.copyright-items1{
+   
 }
